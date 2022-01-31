@@ -89,7 +89,7 @@ const ChatBox = (props) => {
 								type="text"
 								placeholder="saisir  votre message"
 							/>
-							<button type="submit">Send</button>
+							<button type="submit">Sendd</button>
 						</form>
 					</div>
 				</div>
